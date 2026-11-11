@@ -1,4 +1,4 @@
-SKILLS := adr de-slop deconstruct frontend pre-flight regression-test terse triage
+SKILLS := adr de-slop deconstruct frontend pre-flight regression-test tech-writer terse triage
 CLAUDE_SKILLS_DIR ?= $(HOME)/.claude/skills
 OPENCODE_SKILLS_DIR ?= $(HOME)/.config/opencode/skills
 
